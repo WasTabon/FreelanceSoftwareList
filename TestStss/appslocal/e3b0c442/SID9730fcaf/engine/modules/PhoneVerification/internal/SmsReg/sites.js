@@ -1,0 +1,35 @@
+_SMS.SmsRegApi.prototype.getRawSite = function(site){
+	var sites = {
+        "Other": "other",
+        "VK": "vk",
+        "WhatsApp": "whatsapp",
+        "Viber": "viber",
+        "Telegram": "telegram",
+        "WeChat": "wechat",
+        "Google": "gmail",
+        "Facebook": "facebook",
+        "Instagram": "instagram",
+        "Microsoft": "microsoft",
+        "KakaoTalk": "kakaotalk",
+        "Twitter": "twitter",
+        "Uber": "uber",
+        "Mail.ru": "mailru",
+        "Yahoo": "yahoo",
+        "Tinder": "tinder",
+        "Aol": "aol",
+        "Ok.ru": "classmates",
+        "Avito": "avito",
+        "Steam": "steam",
+        "Mamba": "mamba",
+        "DrugVokrug": "drugvokrug",
+        "OLX": "olx",
+        "LINE Messenger": "lineme",
+        "Youla": "youla",
+        "SEOsprint": "seosprint",
+        "MeetMe": "meetme",
+        "Fotostrana": "fotostrana",
+        "Nimses": "nimses",
+        "Badoo": "badoo"
+    };
+	return sites.hasOwnProperty(site) ? sites[site] : sites["Other"];
+};

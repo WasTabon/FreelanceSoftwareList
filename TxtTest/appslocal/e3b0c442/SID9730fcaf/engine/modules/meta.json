@@ -1,0 +1,11 @@
+{
+    "Archive": true,
+    "Checksum": false,
+    "Excel": false,
+    "FTP": false,
+    "FunCaptcha": false,
+    "HCaptcha": false,
+    "ReCaptcha": true,
+    "SQL": false,
+    "SmsReceive": false
+}

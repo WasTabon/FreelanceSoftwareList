@@ -1,0 +1,3 @@
+~~CUSTOM~LOG~~[.][black][255421824] [00:23:17] Поток №1 : E:/BrowserAutomationStudio/release/TxtTest/appslocal/e3b0c442/SID9730fcaf/engine\r.txt
+~~CUSTOM~LOG~~[+][green][00:23:42] Поток №1 : Поток выполнен успешно с сообщением "Ok"
+~~CUSTOM~LOG~~[+][black][00:23:42] Скрипт завершен корректно

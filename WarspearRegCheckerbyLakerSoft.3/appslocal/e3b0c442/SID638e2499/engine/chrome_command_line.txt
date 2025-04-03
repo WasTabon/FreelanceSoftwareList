@@ -1,0 +1,6 @@
+--disable-gpu
+--disable-gpu-compositing
+--disable-gpu-shader-disk-cache
+--ignore-certificate-errors
+--enable-widevine-cdm
+--enable-blink-features=WebBluetooth,Badging,InstalledApp,WakeLock,Notifications,WebAnimationsAPI,AOMPhase1

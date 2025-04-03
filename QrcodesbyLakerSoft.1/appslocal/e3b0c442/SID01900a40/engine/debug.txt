@@ -1,0 +1,78 @@
+Debug 21:35:10: Start 001
+Debug 21:35:10: InitCurl 0
+Debug 21:35:10: Start 002
+Debug 21:35:10: Start 003
+Debug 21:35:10: Start 004
+Debug 21:35:10: Start 009
+Debug 21:35:10: Start 010
+Debug 21:35:10: Start 0100
+Debug 21:35:10: Start 011
+Debug 21:35:10: Start 012
+Debug 21:35:10: Support SSL true
+Debug 21:35:10: SSL default lock 41 0x680a2570
+Debug 21:35:10: Start 013
+Debug 21:35:10: Start 014
+Debug 21:35:10: Start 015
+Debug 21:35:10: Start 016
+Debug 21:35:10: Start 017
+Debug 21:35:10: SSL custom lock 41 0x7ff6034234a0
+Debug 21:35:10: Start 018
+Debug 21:35:10: Start 018.0
+Debug 21:35:10: Start 018.1
+Debug 21:35:10: Start 018.2
+Debug 21:35:10: Start 018.3
+Debug 21:35:10: Start 018.4
+Debug 21:35:10: Start 018.5
+Debug 21:35:10: Start 99
+Debug 21:35:10: Start 100
+Debug 21:35:10: Start 020
+Debug 21:35:10: Start 021
+Debug 21:35:10: Start 022
+Debug 21:35:10: Start 022.1
+Debug 21:35:10: Start 022.2
+Debug 21:35:10: Start 022.3
+Debug 21:35:10: Start 023
+Debug 21:35:10: Start 024
+Debug 21:35:10: Start 025
+Debug 21:35:10: Start 026
+Debug 21:35:10: Start 027
+Debug 21:35:10: Start 028
+Debug 21:35:10: Start 029
+Debug 21:35:10: Start 030
+Debug 21:35:10: Start 031
+Debug 21:35:10: Start 032
+Debug 21:35:10: Start 033
+Debug 21:35:10: Start 034
+Debug 21:35:10: Start 035
+Debug 21:35:20: Start 036
+Debug 21:35:20: Start 047
+Debug 21:35:20: Start 048
+Debug 21:35:20: Start 049
+Debug 21:35:20: Start 050
+Debug 21:35:20: Start 051
+Debug 21:35:20: Start 052
+Debug 21:35:20: Start 053
+Debug 21:35:20: Start 063
+Debug 21:35:20: Start 065
+Debug 21:35:20: Start 066
+Debug 21:35:20: Start 037
+Debug 21:35:20: Start 038
+Debug 21:35:20: Start 045
+Debug 21:35:20: Start 067
+Debug 21:35:20: Start 068
+Debug 21:35:20: Start 069
+Debug 21:35:20: Start 070
+Debug 21:35:20: Start 071
+Debug 21:35:22: Start 200
+Warning 21:35:23: QSettings::value: Empty key passed
+Warning 21:35:23: QSettings::value: Empty key passed
+Warning 21:35:23: QSettings::value: Empty key passed
+Warning 21:35:23: QSettings::value: Empty key passed
+Debug 21:35:23: Start 300
+Debug 21:35:23: Start 301
+Debug 21:35:23: SSL custom lock 41 0x7ff6034234a0
+Debug 21:35:23: Start 302
+Debug 21:35:23: End
+Debug 21:35:23: Start 303
+Debug 21:35:23: Start 304
+Debug 21:35:23: Start 305

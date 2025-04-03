@@ -1,0 +1,4 @@
+--disable-gpu
+--disable-gpu-compositing
+--disable-gpu-shader-disk-cache
+--enable-widevine-cdm

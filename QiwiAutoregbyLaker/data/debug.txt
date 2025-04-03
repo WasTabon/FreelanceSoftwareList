@@ -1,0 +1,10 @@
+Debug 16:01:34: IsEnginesInAppData false
+Debug 16:01:34: IsValid true IsX64 true IsSilent false IsRemote false ScriptName "e3b0c442" Server "" Username "" PasswordLength 0
+Debug 16:01:34: ScriptHash "b58c8f9d" EngineVersion "22.6.5"
+Debug 16:01:34: AppPath "appslocal/e3b0c442/SIDb58c8f9d/engine/FastExecuteScript.exe" "appslocal/e3b0c442/SIDb58c8f9d/engine/"
+Debug 16:01:34: EnginePath "engines/22.6.5/engine.zip"
+Debug 16:01:35: Downloading "distr/FastExecuteScript64/22.6.5/FastExecuteScript.x64.zip"
+Debug 16:01:58: EnginePrepared
+Debug 16:02:10: PID= 6028
+Debug 16:02:10: Run!
+Debug 16:02:10: Exit

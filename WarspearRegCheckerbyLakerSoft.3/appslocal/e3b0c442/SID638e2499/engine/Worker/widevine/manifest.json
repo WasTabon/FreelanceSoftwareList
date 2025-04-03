@@ -1,0 +1,9 @@
+{
+  "x-cdm-codecs": "vp8,vp9.0,avc1",
+  "os": "win",
+  "arch": "ia32",
+  "x-cdm-module-versions": "4",
+  "x-cdm-interface-versions": "10",
+  "x-cdm-host-versions": "10",
+  "version": "4.10.1440.18"
+} 

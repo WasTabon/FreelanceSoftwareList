@@ -1,0 +1,5 @@
+--disable-gpu
+--disable-gpu-compositing
+--disable-gpu-shader-disk-cache
+--ignore-certificate-errors
+--enable-widevine-cdm

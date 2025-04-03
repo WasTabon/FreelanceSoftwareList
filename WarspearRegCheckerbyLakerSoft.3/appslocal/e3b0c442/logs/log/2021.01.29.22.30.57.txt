@@ -1,0 +1,13 @@
+~~CUSTOM~LOG~~[.][black][331302046] [22:31:21] Поток №1 : daian_miraflor@yahoo.com;daniellaintalan
+~~CUSTOM~LOG~~[.][black][138331493] [22:31:30] Поток №1 : Не валид
+~~CUSTOM~LOG~~[.][black][331302046] [22:31:30] Поток №1 : tavolarosa@icloud.com;tavolarosa
+~~CUSTOM~LOG~~[.][black][138331493] [22:31:40] Поток №1 : Не валид
+~~CUSTOM~LOG~~[.][black][331302046] [22:31:40] Поток №1 : ginakinantimery@yahoo.com;gina190399
+~~CUSTOM~LOG~~[.][black][138331493] [22:31:50] Поток №1 : Не валид
+~~CUSTOM~LOG~~[.][black][331302046] [22:31:50] Поток №1 : joduyyyy@yahoo.com;josyyyyy
+~~CUSTOM~LOG~~[.][black][138331493] [22:31:59] Поток №1 : Не валид
+~~CUSTOM~LOG~~[.][black][331302046] [22:31:59] Поток №1 : baharsevgi36@gmail.com;sevbah
+~~CUSTOM~LOG~~[.][black][138331493] [22:32:07] Поток №1 : Не валид
+~~CUSTOM~LOG~~[.][black][331302046] [22:32:07] Поток №1 : hanhduyvu@gmail.com;06122k3
+~~CUSTOM~LOG~~[+][green][22:32:09] Поток №1 : Поток выполнен успешно с сообщением "Ok"
+~~CUSTOM~LOG~~[+][black][22:32:09] Скрипт завершен корректно

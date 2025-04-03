@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BrowserAutomationStudioProject>
+     <Script><![CDATA[]]></Script>
+     <ModuleInfo><![CDATA[]]></ModuleInfo>
+     <Modules/>
+     <EmbeddedData><![CDATA[]]></EmbeddedData>
+     <DatabaseId></DatabaseId>
+     <Schema></Schema>
+     <ConnectionIsRemote>false</ConnectionIsRemote>
+     <ConnectionServer></ConnectionServer>
+     <ConnectionPort></ConnectionPort>
+     <ConnectionLogin></ConnectionLogin>
+     <ConnectionPassword></ConnectionPassword>
+     <ScriptName></ScriptName>
+     <ProtectionStrength>4</ProtectionStrength>
+     <UnusedModules></UnusedModules>
+     <ScriptIcon></ScriptIcon>
+     <IsCustomIcon>false</IsCustomIcon>
+     <HideBrowsers>false</HideBrowsers>
+     <IntegrateScheduler>false</IntegrateScheduler>
+     <SingleInstance>false</SingleInstance>
+     <CopySilent>false</CopySilent>
+     <IsEnginesInAppData>false</IsEnginesInAppData>
+     <CompileType>NoProtection</CompileType>
+     <ScriptVersion></ScriptVersion>
+     <AvailableLanguages></AvailableLanguages>
+     <OutputTitle1/>
+     <OutputTitle2/>
+     <OutputTitle3/>
+     <OutputTitle4/>
+     <OutputTitle5/>
+     <OutputTitle6/>
+     <OutputTitle7/>
+     <OutputTitle8/>
+     <OutputTitle9/>
+     <OutputVisible1>177</OutputVisible1>
+     <OutputVisible2>71</OutputVisible2>
+     <OutputVisible3>139</OutputVisible3>
+     <OutputVisible4>221</OutputVisible4>
+     <OutputVisible5>252</OutputVisible5>
+     <OutputVisible6>127</OutputVisible6>
+     <OutputVisible7>0</OutputVisible7>
+     <OutputVisible8>0</OutputVisible8>
+     <OutputVisible9>144</OutputVisible9>
+     <ModelList>
+          <Model>
+               <Name>123</Name>
+               <Description ru="123" en="123"/>
+               <SectionName ru=""/>
+               <VisibilityConditionValue></VisibilityConditionValue>
+               <VisibilityConditionVariable></VisibilityConditionVariable>
+               <Type>FixedInteger</Type>
+               <IsAdvanced>0</IsAdvanced>
+               <Visible>1</Visible>
+               <Enabled>1</Enabled>
+               <AllowedTypes>FixedInteger</AllowedTypes>
+               <Value>1</Value>
+               <MinValue>1</MinValue>
+               <MaxValue>10000000</MaxValue>
+          </Model>
+          <Defaults/>
+     </ModelList>
+</BrowserAutomationStudioProject>
